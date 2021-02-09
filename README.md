@@ -3,9 +3,10 @@
 > Technical test
 
 ## TECNOLOGIAS USADAS
-- Vue Webpack
-- Vuex
-- Vuex persistend
+- vue webpack
+- vuex
+- vue meta
+- vuex persistend
 - socket.io
 - secure ls
 - prerender spa
