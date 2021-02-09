@@ -10,14 +10,10 @@
 - secure ls
 - prerender spa
 
-## Build Setup
+## PASOS
 
-``` bash
-# install dependencies
-npm install
+1. instalar dependencias
+npm i
 
-# serve with hot reload at localhost:8080
+2. ejecuta proyecto
 npm run dev
-
-# build for production with minification
-npm run build
