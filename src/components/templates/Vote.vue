@@ -210,7 +210,7 @@ export default {
     dislike(id) {
       const info = this.list.filter((superhero) => superhero.id_superhero === id)
       this.$swal({
-        text: 'Confirma dar like al titulo ' + info[0].name,
+        text: 'Confirma dar dislike al titulo ' + info[0].name,
         icon: 'warning',
         showConfirmButton: true,
         showCancelButton: true,
@@ -252,7 +252,7 @@ export default {
                 }
               })
             }
-            
+
             this.vote_egain = false
           } else {
             this.$swal({
