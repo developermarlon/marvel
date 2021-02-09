@@ -3,11 +3,12 @@
 > Technical test
 
 ## TECNOLOGIAS USADAS
-- Node js
-- Express
-- Sequelize
-- jwt
+- Vue Webpack
+- Vuex
+- Vuex persistend
 - socket.io
+- secure ls
+- prerender spa
 
 ## Build Setup
 
