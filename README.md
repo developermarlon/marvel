@@ -12,8 +12,8 @@
 
 ## PASOS
 
-1. instalar dependencias
-npm i
+1. instalar dependencias: 
+- npm i
 
-2. ejecuta proyecto
-npm run dev
+2. ejecuta proyecto: 
+- npm run dev
